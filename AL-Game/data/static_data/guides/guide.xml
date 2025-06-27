@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<guides xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="guide.xsd">
+	<!-- Asmodians -->
+	<guide title="adventurers_guide2_asmo" level="2" race="ASMODIANS" rewardCount="5">
+		<message>
+			<![CDATA[<BR><BR>
+			You are starting your journey! I will be offering you support and so you can defend Atreia from the dangers that are to come!
+			<br><br><br><br>
+			Be aware of the signs, as they will define your future!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<select>Blood for blood!</select>
+		<survey itemId="164002011" count="20"/>
+		<survey itemId="190100055" count="1"/>
+		<survey itemId="164002010" count="20"/>
+		<survey itemId="164002057" count="20"/>
+		<survey itemId="162000046" count="50"/>
+	</guide>	
+	<guide title="adventurers_guide10_asmo" level="10" race="ASMODIANS" rewardCount="5">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<select>Blood for blood!</select>
+		<survey itemId="164002011" count="20"/>
+		<survey itemId="164002010" count="20"/>
+		<survey itemId="164002057" count="20"/>
+		<survey itemId="162000046" count="50"/>
+		<survey itemId="190000022" count="1"/>
+	</guide>
+	<guide title="adventurers_guide15_asmo" level="15" race="ASMODIANS" rewardCount="5">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<select>Blood for blood!</select>
+		<survey itemId="164002010" count="20"/>
+		<survey itemId="164002057" count="20"/>
+		<survey itemId="164002011" count="20"/>
+		<survey itemId="162000047" count="50"/>
+		<survey itemId="186000006" count="25"/>
+	</guide>
+	<guide title="adventurers_guide20_asmo" level="20" race="ASMODIANS" rewardCount="5">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<select>Blood for blood!</select>
+		<survey itemId="164002010" count="20"/>
+		<survey itemId="164002057" count="20"/>
+		<survey itemId="164002011" count="20"/>
+        <survey itemId="162000047" count="50"/>
+		<survey itemId="187000002" count="1"/>
+	</guide>
+	<guide title="adventurers_guide25_asmo" level="25" race="ASMODIANS" rewardCount="1">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<reward_info>Please select your gift!</reward_info>
+		<select>Blood for blood!</select>
+		<survey itemId="100200673" count="1"/>
+		<survey itemId="100000723" count="1"/>
+		<survey itemId="101700594" count="1"/>
+		<survey itemId="100100568" count="1"/>		
+		<survey itemId="101500566" count="1"/>
+		<survey itemId="115000826" count="1"/>
+		<survey itemId="100600608" count="1"/>
+		<survey itemId="100500572" count="1"/>
+		<survey itemId="100900554" count="1"/>
+		<survey itemId="101300538" count="1"/>
+	</guide>		
+	<guide title="adventurers_guide30.1_asmo" level="30" race="ASMODIANS" rewardCount="4">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<select>Blood for blood!</select>
+		<survey itemId="164002010" count="30"/>
+		<survey itemId="164002057" count="30"/>
+		<survey itemId="164002011" count="30"/>
+		<survey itemId="162000048" count="50"/>
+	</guide>
+	<guide title="adventurers_guide30.2_asmo" level="30" race="ASMODIANS" rewardCount="5">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<reward_info>Please select 5 gifts, press the Ctrl key!</reward_info>
+		<select>Blood for blood!</select>
+		<survey itemId="110600834" count="1"/>
+		<survey itemId="113600800" count="1"/>
+		<survey itemId="112600785" count="1"/>
+		<survey itemId="111600813" count="1"/>
+		<survey itemId="114600794" count="1"/>		
+		<survey itemId="110500849" count="1"/>
+		<survey itemId="113500827" count="1"/>
+		<survey itemId="112500774" count="1"/>
+		<survey itemId="111500821" count="1"/>
+		<survey itemId="114500837" count="1"/>		
+		<survey itemId="110300881" count="1"/>
+		<survey itemId="113300860" count="1"/>
+		<survey itemId="112300784" count="1"/>
+		<survey itemId="111300834" count="1"/>
+		<survey itemId="114300893" count="1"/>		
+		<survey itemId="110100931" count="1"/>
+		<survey itemId="113100843" count="1"/>
+		<survey itemId="112100790" count="1"/>
+		<survey itemId="111100831" count="1"/>
+		<survey itemId="114100866" count="1"/>
+	</guide>	
+	<guide title="adventurers_guide35_asmo" level="35" race="ASMODIANS" rewardCount="5">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<select>Blood for blood!</select>
+		<survey itemId="164002010" count="30"/>
+		<survey itemId="164002057" count="30"/>
+		<survey itemId="164002011" count="30"/>
+		<survey itemId="162000048" count="50"/>
+		<survey itemId="169620054" count="5"/>
+	</guide>
+	<guide title="adventurers_guide40.1_asmo" level="40" race="ASMODIANS" rewardCount="4">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<select>Blood for blood!</select>
+		<survey itemId="164002010" count="40"/>
+		<survey itemId="164002057" count="40"/>
+		<survey itemId="164002011" count="40"/>
+		<survey itemId="162000048" count="60"/>
+	</guide>
+	<guide title="adventurers_guide40.2_asmo" level="40" race="ASMODIANS" rewardCount="1">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<select>Blood for blood!</select>
+		<survey itemId="167000519" count="10"/>
+		<survey itemId="167000522" count="10"/>
+	</guide>
+	<guide title="adventurers_guide45_asmo" level="45" race="ASMODIANS" rewardCount="4">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<select>Blood for blood!</select>
+		<survey itemId="164002010" count="40"/>
+		<survey itemId="164002057" count="40"/>
+		<survey itemId="164002011" count="40"/>
+		<survey itemId="162000048" count="60"/>
+	</guide>
+	<guide title="adventurers_guide50.1_asmo" level="50" race="ASMODIANS" rewardCount="5">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<Br><BR>]]>
+		</message>
+		<select>Blood for blood!</select>
+		<survey itemId="164002010" count="40"/>
+		<survey itemId="164002057" count="40"/>
+		<survey itemId="164002011" count="40"/>
+		<survey itemId="162000048" count="60"/>
+		<survey itemId="187000017" count="1"/>
+	</guide>
+	<guide title="adventurers_guide50.2_asmo" level="50" race="ASMODIANS" rewardCount="5">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<Br><BR>]]>
+		</message>
+		<select>Blood for blood!</select>
+		<survey itemId="110300873" count="1"/>
+		<survey itemId="112300777" count="1"/>
+		<survey itemId="111300826" count="1"/>
+		<survey itemId="113300848" count="1"/>
+		<survey itemId="114300884" count="1"/>		
+		<survey itemId="110600828" count="1"/>
+		<survey itemId="112600776" count="1"/>
+		<survey itemId="111600801" count="1"/>
+		<survey itemId="113600792" count="1"/>
+		<survey itemId="114600787" count="1"/>		
+		<survey itemId="110100918" count="1"/>
+		<survey itemId="112100780" count="1"/>
+		<survey itemId="111100822" count="1"/>
+		<survey itemId="113100830" count="1"/>
+		<survey itemId="114100858" count="1"/>		
+		<survey itemId="110500843" count="1"/>
+		<survey itemId="112500765" count="1"/>
+		<survey itemId="111500809" count="1"/>
+		<survey itemId="113500819" count="1"/>
+		<survey itemId="114500830" count="1"/>
+	</guide>
+	<guide title="adventurers_guide50.3_asmo" level="50" race="ASMODIANS" rewardCount="1">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<Br><BR>]]>
+		</message>
+		<select>Blood for blood!</select>
+		<survey itemId="100200664" count="1"/>
+		<survey itemId="100900541" count="1"/>
+		<survey itemId="100500559" count="1"/>
+		<survey itemId="101700579" count="1"/>
+		<survey itemId="101300531" count="1"/>		
+		<survey itemId="101500557" count="1"/>
+		<survey itemId="100000709" count="1"/>
+		<survey itemId="100600596" count="1"/>
+		<survey itemId="100100557" count="1"/>
+	</guide>	
+	<guide title="adventurers_guide55.1_asmo" level="55" race="ASMODIANS" rewardCount="3">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<reward_info>Please select 3 gifts, press the Ctrl key!</reward_info>
+		<select>Blood for blood</select>
+		<survey itemId="160010206" count="2"/>
+		<survey itemId="160010207" count="2"/>
+		<survey itemId="169610052" count="1"/>
+		<survey itemId="141000001" count="1000"/>
+	</guide>
+	<guide title="adventurers_guide55.2_asmo" level="55" race="ASMODIANS" rewardCount="1">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<reward_info>Please select your gift!</reward_info>
+		<select>Blood for blood.</select>		
+		<survey itemId="169600060" count="1"/>
+		<survey itemId="169600063" count="1"/>
+		<survey itemId="169600062" count="1"/>
+	</guide>	
+	<!-- Elyos -->
+	<guide title="adventurers_guide2_ely" level="2" race="ELYOS" rewardCount="5">
+		<message>
+			<![CDATA[<BR><BR>
+			You are starting your journey! I will be offering you support and so you can defend Atreia from the dangers that are to come!
+			<br><br><br><br>
+			Be aware of the signs, as they will define your future!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<select>Faith and arms!</select>
+		<survey itemId="164002011" count="20"/>
+		<survey itemId="190100055" count="1"/>
+		<survey itemId="164002010" count="20"/>
+		<survey itemId="164002057" count="20"/>
+		<survey itemId="162000046" count="50"/>
+	</guide>	
+	<guide title="adventurers_guide10_ely" level="10" race="ELYOS" rewardCount="5">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<select>Faith and arms!</select>
+		<survey itemId="164002011" count="20"/>
+		<survey itemId="164002010" count="20"/>
+		<survey itemId="164002057" count="20"/>
+		<survey itemId="162000046" count="50"/>
+		<survey itemId="190000022" count="1"/>
+	</guide>
+	<guide title="adventurers_guide15_ely" level="15" race="ELYOS" rewardCount="5">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<select>Faith and arms!</select>
+        <survey itemId="164002010" count="20"/>
+		<survey itemId="164002057" count="20"/>
+		<survey itemId="164002011" count="20"/>
+        <survey itemId="162000047" count="50"/>
+        <survey itemId="186000001" count="25"/>		
+	</guide>
+	<guide title="adventurers_guide20_ely" level="20" race="ELYOS" rewardCount="5">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<select>Faith and arms!</select>
+		<survey itemId="164002010" count="20"/>
+		<survey itemId="164002057" count="20"/>
+		<survey itemId="164002011" count="20"/>
+        <survey itemId="162000047" count="50"/>
+		<survey itemId="187000000" count="1"/>
+	</guide>
+	<guide title="adventurers_guide25_ely" level="25" race="ELYOS" rewardCount="1">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<reward_info>Please select your gift!</reward_info>
+		<select>Faith and arms!</select>
+		<survey itemId="100200673" count="1"/>
+		<survey itemId="100000723" count="1"/>
+		<survey itemId="101700594" count="1"/>
+		<survey itemId="100100568" count="1"/>		
+		<survey itemId="101500566" count="1"/>
+		<survey itemId="115000826" count="1"/>
+		<survey itemId="100600608" count="1"/>
+		<survey itemId="100500572" count="1"/>
+		<survey itemId="100900554" count="1"/>
+		<survey itemId="101300538" count="1"/>
+	</guide>			
+	<guide title="adventurers_guide30.1_ely" level="30" race="ELYOS" rewardCount="4">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<select>Faith and arms!</select>
+		<survey itemId="164002010" count="30"/>
+		<survey itemId="164002057" count="30"/>
+		<survey itemId="164002011" count="30"/>
+		<survey itemId="162000048" count="50"/>
+	</guide>
+	<guide title="adventurers_guide30.2_ely" level="30" race="ELYOS" rewardCount="5">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<reward_info>Please select 5 gifts, press the Ctrl key!</reward_info>
+		<select>Faith and arms!</select>
+		<survey itemId="110600834" count="1"/>
+		<survey itemId="113600800" count="1"/>
+		<survey itemId="112600785" count="1"/>
+		<survey itemId="111600813" count="1"/>
+		<survey itemId="114600794" count="1"/>		
+		<survey itemId="110500849" count="1"/>
+		<survey itemId="113500827" count="1"/>
+		<survey itemId="112500774" count="1"/>
+		<survey itemId="111500821" count="1"/>
+		<survey itemId="114500837" count="1"/>		
+		<survey itemId="110300881" count="1"/>
+		<survey itemId="113300860" count="1"/>
+		<survey itemId="112300784" count="1"/>
+		<survey itemId="111300834" count="1"/>
+		<survey itemId="114300893" count="1"/>		
+		<survey itemId="110100931" count="1"/>
+		<survey itemId="113100843" count="1"/>
+		<survey itemId="112100790" count="1"/>
+		<survey itemId="111100831" count="1"/>
+		<survey itemId="114100866" count="1"/>
+	</guide>	
+	<guide title="adventurers_guide35_ely" level="35" race="ELYOS" rewardCount="5">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<select>Faith and arms!</select>
+		<survey itemId="164002010" count="30"/>
+		<survey itemId="164002057" count="30"/>
+		<survey itemId="164002011" count="30"/>
+		<survey itemId="162000048" count="50"/>
+		<survey itemId="169620054" count="5"/>
+	</guide>
+	<guide title="adventurers_guide40.1_ely" level="40" race="ELYOS" rewardCount="5">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<select>Faith and arms!</select>
+		<survey itemId="164002010" count="40"/>
+		<survey itemId="164002057" count="40"/>
+		<survey itemId="164002011" count="40"/>
+		<survey itemId="162000048" count="60"/>
+		<survey itemId="169620015" count="5"/>
+	</guide>
+	<guide title="adventurers_guide40.2_ely" level="40" race="ELYOS" rewardCount="1">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<select>Blood for blood!</select>
+		<survey itemId="167000519" count="10"/>
+		<survey itemId="167000522" count="10"/>
+	</guide>	
+	<guide title="adventurers_guide45_ely" level="45" race="ELYOS" rewardCount="4">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<select>Faith and arms!</select>
+		<survey itemId="164002010" count="40"/>
+		<survey itemId="164002057" count="40"/>
+		<survey itemId="164002011" count="40"/>
+		<survey itemId="162000048" count="60"/>
+	</guide>
+	<guide title="adventurers_guide50.1_ely" level="50" race="ELYOS" rewardCount="5">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<select>Faith and arms!</select>
+		<survey itemId="164002010" count="40"/>
+		<survey itemId="164002057" count="40"/>
+		<survey itemId="164002011" count="40"/>
+		<survey itemId="162000048" count="60"/>
+		<survey itemId="187000016" count="1"/>
+	</guide>
+	<guide title="adventurers_guide50.2_ely" level="50" race="ELYOS" rewardCount="5">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<select>Faith and arms!</select>
+		<survey itemId="110300872" count="1"/>
+		<survey itemId="112300776" count="1"/>
+		<survey itemId="111300825" count="1"/>
+		<survey itemId="113300847" count="1"/>
+		<survey itemId="114300883" count="1"/>		
+		<survey itemId="110600827" count="1"/>
+		<survey itemId="112600775" count="1"/>
+		<survey itemId="111600800" count="1"/>
+		<survey itemId="113600791" count="1"/>
+		<survey itemId="114600786" count="1"/>		
+		<survey itemId="110100917" count="1"/>
+		<survey itemId="112100779" count="1"/>
+		<survey itemId="111100821" count="1"/>		
+		<survey itemId="113100829" count="1"/>		
+		<survey itemId="114100857" count="1"/>		
+		<survey itemId="110500842" count="1"/>
+		<survey itemId="112500764" count="1"/>
+		<survey itemId="111500808" count="1"/>
+		<survey itemId="113500818" count="1"/>
+		<survey itemId="114500829" count="1"/>
+	</guide>
+	<guide title="adventurers_guide50.3_ely" level="50" race="ELYOS" rewardCount="1">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<select>Faith and arms!</select>
+		<survey itemId="100600595" count="1"/>
+		<survey itemId="100500558" count="1"/>
+		<survey itemId="101300530" count="1"/>
+		<survey itemId="101500556" count="1"/>
+		<survey itemId="100000708" count="1"/>		
+		<survey itemId="100200663" count="1"/>
+		<survey itemId="101700578" count="1"/>
+		<survey itemId="100100556" count="1"/>
+		<survey itemId="100900540" count="1"/>
+	</guide>	
+	<guide title="adventurers_guide55.1_ely" level="55" race="ELYOS" rewardCount="3">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<reward_info>Please select 3 gifts, press the Ctrl key!</reward_info>
+		<select>Faith and arms!</select>
+		<survey itemId="160010204" count="2"/>
+		<survey itemId="160010205" count="2"/>
+		<survey itemId="169610052" count="1"/>		
+		<survey itemId="141000001" count="1000"/> 
+	</guide>
+	<guide title="adventurers_guide55.2_ely" level="55" race="ELYOS" rewardCount="1">
+		<message>
+			<![CDATA[<BR><BR>
+			Aion Ascension is offering you a free gift!
+			<br><br><br><br>
+			127.0.0.1
+			<br><br><br><br>
+			Aion Ascension
+			<br><br>]]>
+		</message>
+		<reward_info>Please select your gift!</reward_info>
+		<select>Faith and arms!</select>		
+        <survey itemId="169600060" count="1"/>
+		<survey itemId="169600063" count="1"/>
+		<survey itemId="169600062" count="1"/>
+	</guide>		
+</guides>
