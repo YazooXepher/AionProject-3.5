@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<polymorph_panels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="polymorph_panels.xsd">
+	<panel panel_id="1" panel_skills="493825"/>
+	<panel panel_id="2" panel_skills="493826 494082"/>
+	<panel panel_id="3" panel_skills="494337"/>
+	<panel panel_id="4" panel_skills="4992001 4992257 4991745 4998145"/>
+	<panel panel_id="5" panel_skills="598785 599041 593921"/>
+	<panel panel_id="6" panel_skills="5125692 5125948 5126204 5126460 5126716"/>
+	<panel panel_id="7" panel_skills="5127228 5127484 5127740 5127996 5128252"/>
+	<panel panel_id="8" panel_skills="5128508 5129532 5129788"/>
+	<panel panel_id="9" panel_skills="5133057 5133313"/>
+	<panel panel_id="10" panel_skills="5133058 5133314"/>
+	<panel panel_id="11" panel_skills="5133059 5133315"/>
+	<panel panel_id="12" panel_skills="5172028"/>
+	<panel panel_id="13" panel_skills="5172796"/>
+	<panel panel_id="15" panel_skills="5246465 5246721 5246977"/>
+	<panel panel_id="16" panel_skills="5213953 5214209 5213697"/>
+	<panel panel_id="17" panel_skills="5341756 5342012"/>
+	<panel panel_id="25" panel_skills="5403393 5403649 5403905"/>
+	<panel panel_id="26" panel_skills="5403393 5403649 5403905 5404161"/>
+	<panel panel_id="27" panel_skills="5403393 5403649 5403905 5404161 5404417"/>
+	<panel panel_id="32" panel_skills="5456897 5457153 5457409"/>
+</polymorph_panels>
