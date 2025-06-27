@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns>
+	<spawn_map map_id="220040000">
+		<!-- Rift -->
+		<spawn npc_id="700137" handler="RIFT">
+			<spot x="233.323" y="150.91" z="240.881" anchor="BELUSLAN_GM"/>		<!-- id 2246 -->
+			<spot x="127.164" y="1064.98" z="297.607" anchor="BELUSLAN_GS"/>	<!-- id 2146 -->
+		</spawn>
+		<!-- BELUSLAN_AM -->
+		<rift_spawn id="2240">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- BELUSLAN_BM -->
+		<rift_spawn id="2241">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- BELUSLAN_CM -->
+		<rift_spawn id="2242">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- BELUSLAN_DM -->
+		<rift_spawn id="2243">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- BELUSLAN_EM -->
+		<rift_spawn id="2244">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- BELUSLAN_FM -->
+		<rift_spawn id="2245">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- BELUSLAN_GM -->
+		<rift_spawn id="2246">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- BELUSLAN_AS -->
+		<rift_spawn id="2140">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- BELUSLAN_BS -->
+		<rift_spawn id="2141">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- BELUSLAN_CS -->
+		<rift_spawn id="2142">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- BELUSLAN_DS -->
+		<rift_spawn id="2143">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- BELUSLAN_ES -->
+		<rift_spawn id="2144">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- BELUSLAN_FS -->
+		<rift_spawn id="2145">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- BELUSLAN_GS -->
+		<rift_spawn id="2146">
+			<!-- Beluslan Elite Templar -->	
+			<spawn npc_id="209544" respawn_time="4540">								
+				<spot h="32" z="243.25" y="882.28" x="585.3168"/>
+                <spot h="43" z="243.52484" y="880.4307" x="582.01105"/>
+                <spot h="48" z="281.27924" y="921.5988" x="306.7357"/>
+                <spot h="58" z="282.23154" y="916.14777" x="305.76837"/>
+			</spawn>
+			<!-- Beluslan Elite Ranger -->	
+			<spawn npc_id="209546" respawn_time="4540">								
+				<spot h="33" z="244.5086" y="876.3187" x="578.16656"/>
+                <spot h="32" z="245.74765" y="878.90356" x="592.75024"/>
+                <spot h="48" z="282.5" y="910.53284" x="307.7503"/>
+                <spot h="56" z="280.69678" y="923.40594" x="312.01984"/>
+			</spawn>
+			<!-- Beluslan Elite sorcerer -->	
+			<spawn npc_id="209547" respawn_time="4540">								
+				<spot h="32" z="242.93088" y="874.0868" x="583.27966"/>
+                <spot h="32" z="243.33331" y="874.2384" x="588.08826"/>
+                <spot h="46" z="282.38083" y="911.86725" x="312.17215"/>
+                <spot h="43" z="281.56223" y="915.0124" x="314.9836"/>
+			</spawn>
+			<!-- Beluslan Elite Cleric -->	
+			<spawn npc_id="209548" respawn_time="4540">								
+				<spot h="32" z="242.6398" y="869.0602" x="586.0789"/>
+                <spot h="54" z="280.60526" y="913.9429" x="320.10526"/>
+			</spawn>
+		</rift_spawn>
+	</spawn_map>
+</spawns>

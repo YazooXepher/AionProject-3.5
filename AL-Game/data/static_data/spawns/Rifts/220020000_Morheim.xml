@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns>
+	<spawn_map map_id="220020000">
+		<!-- Rift -->
+		<spawn npc_id="700137" handler="RIFT">
+			<spot x="450" y="2350" z="439" anchor="MORHEIM_AM"/>				<!-- id 2220 -->
+			<spot x="745.42" y="1872.32" z="364.746" anchor="MORHEIM_AS"/>		<!-- id 2120 -->
+		</spawn>
+		<!-- MORHEIM_AM -->
+		<rift_spawn id="2220">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- MORHEIM_BM -->
+		<rift_spawn id="2221">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- MORHEIM_CM -->
+		<rift_spawn id="2222">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- MORHEIM_DM -->
+		<rift_spawn id="2223">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- MORHEIM_EM -->
+		<rift_spawn id="2224">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- MORHEIM_FM -->
+		<rift_spawn id="2225">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- MORHEIM_GM -->
+		<rift_spawn id="2226">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- MORHEIM_AS -->
+		<rift_spawn id="2120">
+			<!-- Morhein Elite Sorcerer -->
+			<spawn npc_id="209542" respawn_time="4540">								
+				<spot h="7" z="366.4509" y="1914.702" x="658.6964"/>
+                <spot h="10" z="367.89185" y="1905.5214" x="661.0192"/>
+                <spot h="93" z="440.01978" y="1920.2239" x="398.56058"/>
+                <spot h="91" z="438.86493" y="1921.9347" x="408.05008"/>
+			</spawn>	
+			<!-- Morhein Elite Templar -->
+			<spawn npc_id="209539" respawn_time="4540">			
+				<spot h="7" z="365.83386" y="1910.4913" x="663.2251"/>
+                <spot h="92" z="438.55347" y="1918.079" x="403.12714"/>
+			</spawn>
+			<!-- Morhein Elite Cleric -->
+			<spawn npc_id="209543" respawn_time="4540">			
+				<spot h="3" z="368.4251" y="1907.8029" x="652.9967"/>
+                <spot h="89" z="440.7543" y="1927.8544" x="402.60156"/>
+			</spawn>
+		</rift_spawn>
+		<!-- MORHEIM_BS -->
+		<rift_spawn id="2121">
+			<!-- Morhein Elite Sorcerer 
+			<spawn npc_id="209542" respawn_time="4540">								
+				<spot h="90" z="244.69913" y="1379.8707" x="1156.2035"/>
+                <spot h="113" z="243.93097" y="1378.8955" x="1165.6759"/>
+			</spawn>-->	
+			<!-- Morhein Elite Templar 
+			<spawn npc_id="209539" respawn_time="4540">			
+				<spot h="91" z="243.86432" y="1378.171" x="1162.2859"/>
+                <spot h="94" z="243.99634" y="1378.063" x="1159.3529"/>
+			</spawn>-->
+		</rift_spawn>
+		<!-- MORHEIM_CS -->
+		<rift_spawn id="2122">
+			<!-- Morhein Elite Sorcerer 	
+			<spawn npc_id="209542" respawn_time="4540">								
+				<spot h="80" z="482.38925" y="355.77206" x="609.1378"/>
+                <spot h="87" z="483.2186" y="352.50256" x="618.32385"/>
+			</spawn>-->
+			<!-- Morhein Elite Templar 
+			<spawn npc_id="209539" respawn_time="4540">			
+				<spot h="86" z="482.84586" y="354.21207" x="614.979"/>
+                <spot h="80" z="482.47894" y="354.5171" x="612.3485"/>
+			</spawn>-->
+		</rift_spawn>
+		<!-- MORHEIM_DS -->
+		<rift_spawn id="2123">
+		    <!-- Morhein Elite Sorcerer 
+			<spawn npc_id="209542" respawn_time="4540">								
+				<spot h="113" z="24.579712" y="1325.7455" x="1705.8713"/>
+                <spot h="118" z="24.066254" y="1334.445" x="1709.8298"/>
+			</spawn>-->
+			<!-- Morhein Elite Templar 
+			<spawn npc_id="209539" respawn_time="4540">			
+				<spot h="111" z="23.914131" y="1331.6802" x="1709.0541"/>
+                <spot h="111" z="23.820541" y="1328.3826" x="1708.4888"/>
+			</spawn>-->
+		</rift_spawn>
+		<!-- MORHEIM_ES -->
+		<rift_spawn id="2124">
+			 <!-- Morhein Elite Sorcerer 
+			<spawn npc_id="209542" respawn_time="4540">								
+				<spot h="95" z="340.41077" y="2861.7036" x="1519.7621"/>
+                <spot h="90" z="336.20972" y="2859.3608" x="1507.1194"/>
+			</spawn>-->
+			<!-- Morhein Elite Templar 
+			<spawn npc_id="209539" respawn_time="4540">			
+				<spot h="95" z="337.3409" y="2860.8184" x="1510.7122"/>
+                <spot h="88" z="338.65692" y="2862.1204" x="1514.7518"/>
+			</spawn>-->
+		</rift_spawn>
+		<!-- MORHEIM_FS -->
+		<rift_spawn id="2125">
+			<!-- Morhein Elite Sorcerer 
+			<spawn npc_id="209542" respawn_time="4540">								
+				<spot h="59" z="99.81775" y="2157.5364" x="2795.3296"/>
+                <spot h="64" z="99.68228" y="2142.2783" x="2793.985"/>
+			</spawn>-->
+			<!-- Morhein Elite Templar 
+			<spawn npc_id="209539" respawn_time="4540">			
+				<spot h="58" z="99.01697" y="2147.1409" x="2793.4124"/>
+                <spot h="59" z="99.13806" y="2152.1082" x="2793.9963"/>
+			</spawn>-->
+		</rift_spawn>
+		<!-- MORHEIM_GS -->
+		<rift_spawn id="2126">
+			<!-- Morhein Elite Sorcerer 
+			<spawn npc_id="209542" respawn_time="4540">								
+				<spot h="22" z="323.54593" y="635.4002" x="2953.5352"/>
+                <spot h="38" z="323.65567" y="639.48865" x="2941.499"/>
+			</spawn>-->
+			<!-- Morhein Elite Templar 
+			<spawn npc_id="209539" respawn_time="4540">			
+				<spot h="22" z="323.27777" y="638.44446" x="2945.3545"/>
+                <spot h="37" z="323.22632" y="636.8191" x="2949.621"/>
+			</spawn>-->
+		</rift_spawn>
+	</spawn_map>
+</spawns>

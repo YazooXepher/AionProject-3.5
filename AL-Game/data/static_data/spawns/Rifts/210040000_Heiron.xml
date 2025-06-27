@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns>
+	<spawn_map map_id="210040000">
+		<!-- Rift -->
+		<spawn npc_id="700137" handler="RIFT">
+			<spot x="2662.01" y="434.266" z="398.717" anchor="HEIRON_GM"/>	<!-- id 2146 -->
+			<spot x="2132.44" y="434.266" z="228" anchor="HEIRON_GS"/>	<!-- id 2246 -->
+		</spawn>
+		<!-- HEIRON_AM -->
+		<rift_spawn id="2140">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- HEIRON_BM -->
+		<rift_spawn id="2141">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- HEIRON_CM -->
+		<rift_spawn id="2142">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- HEIRON_DM -->
+		<rift_spawn id="2143">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- HEIRON_EM -->
+		<rift_spawn id="2144">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- HEIRON_FM -->
+		<rift_spawn id="2145">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- HEIRON_GM -->
+		<rift_spawn id="2146">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- HEIRON_AS -->
+		<rift_spawn id="2240">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- HEIRON_BS -->
+		<rift_spawn id="2241">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- HEIRON_CS -->
+		<rift_spawn id="2242">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- HEIRON_DS -->
+		<rift_spawn id="2243">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- HEIRON_ES -->
+		<rift_spawn id="2244">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- HEIRON_FS -->
+		<rift_spawn id="2245">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- HEIRON_GS -->
+		<rift_spawn id="2246">
+			<!-- Heiron Elite Templar -->	
+			<spawn npc_id="209529" respawn_time="4540">								
+				<spot h="53" z="278.72205" y="610.60504" x="2280.921"/>
+                <spot h="54" z="278.90234" y="615.4923" x="2283.1094"/>
+                <spot h="45" z="351.60077" y="576.2998" x="2613.128"/>
+                <spot h="49" z="351.95782" y="581.3765" x="2618.7078"/>
+			</spawn>
+			<!-- Heiron Elite Ranger -->	
+			<spawn npc_id="209531" respawn_time="4540">								
+				<spot h="53" z="280.0973" y="618.5653" x="2288.5188"/>
+                <spot h="58" z="279.788" y="605.02106" x="2284.8145"/>
+                <spot h="45" z="352.6223" y="569.8928" x="2611.909"/>
+                <spot h="45" z="354.18912" y="581.00433" x="2625.807"/>
+			</spawn>
+			<!-- Heiron Elite sorcerer -->	
+			<spawn npc_id="209532" respawn_time="4540">								
+				<spot h="58" z="280.62512" y="607.44556" x="2290.0017"/>
+                <spot h="56" z="280.6441" y="612.83887" x="2292.1528"/>
+                <spot h="38" z="354.672" y="569.88385" x="2619.6807"/>
+                <spot h="39" z="355.0508" y="573.89734" x="2624.6262"/>
+			</spawn>
+			<!-- Heiron Elite Cleric -->	
+			<spawn npc_id="209533" respawn_time="4540">								
+				<spot h="53" z="281.13928" y="608.7253" x="2295.4094"/>
+                <spot h="40" z="356.35507" y="567.8909" x="2625.8574"/>
+			</spawn>
+		</rift_spawn>
+	</spawn_map>
+</spawns>

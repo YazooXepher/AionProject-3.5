@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns>
+	<spawn_map map_id="210020000">
+		<!-- Rift -->
+		<spawn npc_id="700137" handler="RIFT">
+			<spot x="224.042" y="2934.95" z="155.5" anchor="ELTNEN_AM"/>	<!-- id 2120 Entradas -->
+			<spot x="719.325" y="2777.03" z="259.084" anchor="ELTNEN_AS"/>	<!-- id 2220 Saidas -->
+		</spawn>
+		<!-- ELTNEN_AM -->
+		<rift_spawn id="2120">
+			<!-- Test spawn 
+			<spawn npc_id="211680" respawn_time="30">
+				<spot x="221.73" y="2923.874" z="155.5" h="25"/>
+			</spawn>-->
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- ELTNEN_BM -->
+		<rift_spawn id="2121">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- ELTNEN_CM -->
+		<rift_spawn id="2122">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- ELTNEN_DM -->
+		<rift_spawn id="2123">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- ELTNEN_EM -->
+		<rift_spawn id="2124">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- ELTNEN_FM -->
+		<rift_spawn id="2125">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- ELTNEN_GM -->
+		<rift_spawn id="2126">
+			<!-- someone to spawn -->
+			<!-- <spawn npc_id="000" respawn_time="000">
+				<spot x="000.000" y="000.000" z="000.000"/>
+			</spawn> -->
+		</rift_spawn>
+		<!-- ELTNEN_AS -->
+		<rift_spawn id="2220">
+			<!-- Eltnen Elite Sorcerer -->	
+			<spawn npc_id="209527" respawn_time="4540">								
+				<spot h="20" z="214.76447" y="2463.5623" x="733.33093"/>
+                <spot h="20" z="214.71646" y="2459.9348" x="739.5286"/>
+                <spot h="96" z="197.29242" y="2451.6338" x="502.52667"/>
+                <spot h="94" z="196.43997" y="2448.0896" x="494.4361"/>
+			</spawn>
+			<!-- Eltnen Elite Templar -->
+			<spawn npc_id="209524" respawn_time="4540">			
+				<spot h="29" z="214.94598" y="2464.604" x="738.5318"/>
+                <spot h="96" z="198.01474" y="2445.331" x="500.05722"/>
+			</spawn>
+			<!-- Eltnen Elite Cleric -->
+			<spawn npc_id="209528" respawn_time="4540">			
+				<spot h="27" z="214.4977" y="2455.9631" x="733.98"/>
+                <spot h="94" z="196.37662" y="2454.856" x="497.29684"/>
+			</spawn>
+		</rift_spawn>
+		<!-- ELTNEN_BS -->
+		<rift_spawn id="2221">
+			<!-- Eltnen Elite Sorcerer 	
+			<spawn npc_id="209527" respawn_time="4540">								
+				<spot h="70" z="275.10504" y="1306.3002" x="525.98083"/>
+                <spot h="59" z="275.94742" y="1298.395" x="527.9488"/>
+			</spawn>-->
+			<!-- Eltnen Elite Templar 
+			<spawn npc_id="209524" respawn_time="4540">			
+				<spot h="57" z="275.6514" y="1300.8906" x="527.31305"/>
+                <spot h="62" z="275.33154" y="1303.6776" x="526.6599"/>
+			</spawn>-->
+		</rift_spawn>
+		<!-- ELTNEN_CS -->
+		<rift_spawn id="2222">
+			<!-- Eltnen Elite Sorcerer 	
+			<spawn npc_id="209527" respawn_time="4540">								
+				<spot h="95" z="278.50635" y="2523.9932" x="1368.1083"/>
+                <spot h="104" z="279.46133" y="2522.2334" x="1358.1547"/>
+			</spawn>-->
+			<!-- Eltnen Elite Templar 
+			<spawn npc_id="209524" respawn_time="4540">			
+				<spot h="100" z="278.7606" y="2522.6985" x="1361.2769"/>
+                <spot h="106" z="278.479" y="2523.664" x="1364.4946"/>
+			</spawn>-->
+		</rift_spawn>
+		<!-- ELTNEN_DS -->
+		<rift_spawn id="2223">
+			<!-- Eltnen Elite Sorcerer 	
+			<spawn npc_id="209527" respawn_time="4540">								
+				<spot h="54" z="273.63058" y="241.45557" x="174.48419"/>
+                <spot h="55" z="273.63058" y="250.46484" x="179.18349"/>
+			</spawn>-->
+			<!-- Eltnen Elite Templar 
+			<spawn npc_id="209524" respawn_time="4540">			
+				<spot h="55" z="273.63058" y="248.18845" x="176.722"/>
+                <spot h="54" z="273.63058" y="245.2783" x="174.51424"/>
+			</spawn>-->
+		</rift_spawn>
+		<!-- ELTNEN_ES -->
+		<rift_spawn id="2224">
+			<!-- Eltnen Elite Sorcerer 	
+			<spawn npc_id="209527" respawn_time="4540">								
+				<spot h="44" z="383.1416" y="238.26547" x="1413.734"/>
+                <spot h="36" z="382.3703" y="235.85542" x="1404.0693"/>
+			</spawn>-->
+			<!-- Eltnen Elite Templar 
+			<spawn npc_id="209524" respawn_time="4540">			
+				<spot h="35" z="382.73236" y="237.05478" x="1407.6083"/>
+                <spot h="39" z="382.93292" y="238.06" x="1410.4033"/>
+			</spawn>-->
+		</rift_spawn>
+		<!-- ELTNEN_FS -->
+		<rift_spawn id="2225">
+			<!-- Eltnen Elite Sorcerer 	
+			<spawn npc_id="209527" respawn_time="4540">								
+				<spot h="59" z="268.5646" y="2333.496" x="2370.478"/>
+                <spot h="50" z="267.90082" y="2339.2185" x="2373.1501"/>
+			</spawn>-->
+			<!-- Eltnen Elite Templar 
+			<spawn npc_id="209524" respawn_time="4540">			
+				<spot h="49" z="268.30878" y="2335.5298" x="2370.6404"/>
+                <spot h="50" z="268.12454" y="2337.0037" x="2372.0654"/>
+			</spawn>-->
+		</rift_spawn>
+		<!-- ELTNEN_GS -->
+		<rift_spawn id="2226">
+			<!-- Eltnen Elite Sorcerer 	
+			<spawn npc_id="209527" respawn_time="4540">								
+				<spot h="29" z="444.24857" y="615.9215" x="2511.8152"/>
+                <spot h="21" z="445.0454" y="614.2189" x="2503.237"/>
+			</spawn>-->
+			<!-- Eltnen Elite Templar 
+			<spawn npc_id="209524" respawn_time="4540">			
+				<spot h="27" z="444.4994" y="613.98584" x="2505.989"/>
+                <spot h="27" z="444.35522" y="614.71423" x="2508.5867"/>
+			</spawn>-->
+		</rift_spawn>
+	</spawn_map>
+</spawns>
